@@ -1,0 +1,6 @@
+@Nombreempresa.notas.API_HostAddress = http://localhost:5233
+
+GET {{Nombreempresa.notas.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
